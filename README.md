@@ -1,5 +1,4 @@
-# Bootstrap ![image](https://user-images.githubusercontent.com/85568654/183989282-47e0d59f-6557-4bd4-a78a-b2fd00b96e31.png)
-
+# Bootstrap <img src="https://user-images.githubusercontent.com/85568654/183989282-47e0d59f-6557-4bd4-a78a-b2fd00b96e31.png" width="25px" heigh="25px">
 #Português:
 Utilizando bootstrap em uma página web.
 O Bootstrap é um framework web que utiliza código-fonte aberto para "desenvolvimento de componentes de interface" e front-end para sites e aplicações web, foi interessante aprender sobre essa tecnologia que interage com HTML, CSS e JavaScript. Baseado em modelos de design para a tipografia, o bootstrap é capaz de melhorar a experiência do usuário com um site amigável e responsivo, sendo uma ferramenta poderasa no desenvolvimento web.
